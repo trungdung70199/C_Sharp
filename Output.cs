@@ -1,7 +1,8 @@
 // To output values or print text C# use the WriteLine()
 // Can add as many WriteLine()
 
-using System
+using System;
+
 namespace MyApplication
 {
     class Program
@@ -15,21 +16,23 @@ namespace MyApplication
     }
 }
 // Can also output numbers and perform mathematical calculations
-using System
+using System;
+
 namespace MyApplication
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(3 + 3)
+            Console.WriteLine(3 + 3);
         }
     }
 }
 
 // The Write Method
 // Also a Write() method, which is similar to WriteLine()
-using System
+using System;
+
 namespace MyApplication
 {
     class Program
